@@ -1,0 +1,22 @@
+
+  {
+    
+      "accountAssociation": {
+        "header": "eyJmaWQiOjQ0Mzg1NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDIwNWY0OWNkYTA1RjY1Nzk2MmY1QTA3OTMyMkQ2RjEwQTMyMWI2MjQifQ",
+        "payload": "eyJkb21haW4iOiJtaW5pLW51dHMtLXRoZXRhLnZlcmNlbC5hcHAifQ",
+        "signature": "MHhkYjkyZjg4MmQ3N2IyNGUzZTZkNzQyZjgyMjNjMGM0Y2YzNTkyMWI3MzY1MDhlNzQ3M2E0MzgxYTQwZDMxMmU2MTQzMTg2ZTAxYjQxNzE5YTAyOWUwY2E0MTVhODc0NzYyZTNlZjEzNTI5YWE4NTUxODRiM2UxY2UwNGVhODk2ZjFi"
+      }
+
+    ,
+    "frame": {
+      "version": "1",
+      "name": "Example Frame",
+    "iconUrl": "https://mini-nuts--theta.vercel.app/icon.png",
+      "homeUrl": "https://mini-nuts--theta.vercel.app",
+      "imageUrl": "https://mini-nuts--theta.vercel.app/image.png",
+      "buttonTitle": "Check this out",
+      "splashImageUrl": "https://mini-nuts--theta.vercel.app/splash.png",
+      "splashBackgroundColor": "#eeccff",
+      "webhookUrl": "https://mini-nuts--theta.vercel.app/api/webhook"
+    }
+  }
