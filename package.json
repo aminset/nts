@@ -17,7 +17,8 @@
     "build": "node scripts/build.js",
     "start": "next start",
     "lint": "next lint",
-    "deploy:vercel": "node scripts/deploy.js"
+    "deploy:vercel": "node scripts/deploy.js",
+    "install": "echo 'Using legacy-peer-deps for installation'"
   },
   "dependencies": {
     "@cloudflare/d1": "^1.4.1",

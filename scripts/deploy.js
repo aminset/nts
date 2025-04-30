@@ -270,7 +270,8 @@ async function loginToVercel() {
   
   // Start the login process
   const child = spawn('vercel', ['login'], {
-    stdio: 'inherit'
+    stdio: 'inherit',
+    shell: true 
   });
 
   // Wait for the login process to complete
